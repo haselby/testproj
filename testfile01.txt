@@ -7,4 +7,6 @@ six
 seven
 eight
 nine
-ten
+dieci
+undici
+dodici
